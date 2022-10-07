@@ -57,3 +57,4 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 # ci-crud
 # ci-crud
 # ci-crud
+# ci-crud
